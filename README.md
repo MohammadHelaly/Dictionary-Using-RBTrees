@@ -1,5 +1,5 @@
 # Dictionary-Using-RBTrees
- Two implementations of a dictionary program using Red-Black Trees(RBTs).
+ Implementation of a dictionary program using Red-Black Trees(RBTs).
  The program allows users to :
   - search for words
   - insert words
