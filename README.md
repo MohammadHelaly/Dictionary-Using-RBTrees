@@ -7,6 +7,6 @@
   - check size and height of tree
 
 ## Contributors:
- - [Youssef Walid](https://github.com/usefwaild)
+ - [Youssef Walid](https://github.com/usefwalid)
  - [Mohammad Helaly](https://github.com/MohammadHelaly)
  - [Mohamed Shamarka](https://github.com/Shamarka)
